@@ -1,6 +1,8 @@
 {
     "files.associations": {
-        "Lezione_01.C": "cpp"
+        "Lezione_01.C": "cpp",
+        "operation.h": "c",
+        "random": "c"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
